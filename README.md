@@ -92,12 +92,12 @@ Implication: This confirms that the time-based fare component is a critical reve
 
 5. Repository Structure
 
-├── data_cleaning&Analysis_scripts.ipynb     # Main Jupyter Notebook with all Python code for cleaning, analysis, and visualization.
-├── Dataset Selection Document.pdf           # Deliverable 1: The Dataset Selection Document.
-├── Analysis_Report.pdf                      # Deliverable 3: The final 2-page report summarizing the 5 key insights.
-├──yellow_tripdata_2025-01.parquet           # Main dataset
-├── taxi_zone_lookup.csv                     # Helper data used to map location IDs to names.
-└── README.md                                # This file.
+data_cleaning&Analysis_scripts.ipynb     # Main Jupyter Notebook with all Python code for cleaning, analysis, and visualization.
+Dataset Selection Document.pdf           # Deliverable 1: The Dataset Selection Document.
+Analysis_Report.pdf                      # Deliverable 3: The final 2-page report summarizing the 5 key insights.
+yellow_tripdata_2025-01.parquet          # Main dataset
+taxi_zone_lookup.csv                     # Helper data used to map location IDs to names.
+README.md                                # This file.
 
 
 6. How to Run This Project
