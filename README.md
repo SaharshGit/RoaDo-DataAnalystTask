@@ -98,8 +98,6 @@ Dataset Selection Document.pdf           # The Dataset Selection Document.
 
 Analysis_Report.pdf                      # Report summarizing the 5 key insights.
 
-yellow_tripdata_2025-01.parquet          # Main dataset
-
 taxi_zone_lookup.csv                     # Helper data used to map location IDs to names.
 
 README.md                                # This file.
@@ -125,7 +123,9 @@ Open the data_cleaning&Analysis_scripts.ipynb file.
 
 Run the cells from top to bottom.
 
-## Note: Ensure the path to datasets are correct. You might need to change it according to the location you store data)
+## (Note: The raw data file (yellow_tripdata_2024-01.parquet) is not included in this repository due to its large size. It must be downloaded from the NYC TLC website and placed in the same directory as the notebook to run the analysis.)
+
+### Note: Ensure the path to datasets are correct. You might need to change it according to the location you store data)
 
 ### 7. Tools Used
 
