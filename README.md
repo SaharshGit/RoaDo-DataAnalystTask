@@ -1,8 +1,8 @@
 # RoaDo-DataAnalystTask
 
-NYC Taxi Data Analysis - Data Analyst Project
+## NYC Taxi Data Analysis - Data Analyst Project
 
-1. Project Objective
+### 1. Project Objective
 
 The objective is to demonstrate end-to-end data analysis skills: sourcing, cleaning, processing, analyzing, and deriving actionable business insights from a real-world dataset.
 
@@ -10,7 +10,7 @@ Business Domain: Transportation & Urban Logistics
 
 Reasoning: This domain was chosen for its direct relevance to the transportation and logistics industry, providing a parallel analysis to a company like Roado.
 
-2. Data Source
+### 2. Data Source
 
 Dataset: NYC Taxi and Limousine Commission (TLC) Trip Record Data
 
@@ -20,7 +20,7 @@ Download Link: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 
 Helper Data: NYC Taxi Zone Lookup Table (used to map LocationIDs to Boroughs and Neighborhoods).
 
-3. Project Workflow & Methodology
+### 3. Project Workflow & Methodology
 
 The analysis was conducted in a single Python notebook, following a structured workflow:
 
@@ -56,7 +56,7 @@ Exploratory Data Analysis (EDA): Analyzed the clean data to identify patterns an
 
 Visualization: Used matplotlib and seaborn to create visualizations supporting each insight.
 
-4. Key Business Insights
+### 4. Key Business Insights
 
 Here are the top 5 actionable insights derived from the analysis:
 
@@ -90,7 +90,7 @@ Finding: A notable cluster of high-fare trips exists at near-zero distance.
 
 Implication: This confirms that the time-based fare component is a critical revenue driver, protecting driver earnings and company revenue during heavy traffic congestion.
 
-5. Repository Structure
+### 5. Repository Structure
 
 data_cleaning&Analysis_scripts.ipynb     # Main Jupyter Notebook with all Python code for cleaning, analysis, and visualization.
 
@@ -105,7 +105,7 @@ taxi_zone_lookup.csv                     # Helper data used to map location IDs 
 README.md                                # This file.
 
 
-6. How to Run This Project
+### 6. How to Run This Project
 
 Clone the repository:
 
@@ -127,7 +127,7 @@ Run the cells from top to bottom.
 
 ## Note: Ensure the path to datasets are correct. You might need to change it according to the location you store data)
 
-7. Tools Used
+### 7. Tools Used
 
 Language: Python
 
