@@ -1,6 +1,4 @@
-# RoaDo-DataAnalystTask
-
-## NYC Taxi Data Analysis - Data Analyst Project
+# NYC Taxi Data Analysis - Data Analyst Project
 
 ### 1. Project Objective
 
